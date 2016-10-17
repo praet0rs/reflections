@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I felt that the ability to search for a specific type of change enhanced my understanding of written software, I have also understood that version control means something other than I previously thought.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A version control system would allow me to see programming approach and to see how that approach changed over time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros are that I would have control over each commit rather than having an automated process do that. The cons are that I might lapse on committing thereby letting the version control become less useful at a later point.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think that GIT takes a project based software development approach to version control in which multiple file changes are very important to a software project. Google Docs on the other hand is mostly dealing not with software version control but backing up data.
+
+How can you use the commands git log and git diff to view the history of files?
+
+The command git log can be used to view a list of all commits within that history and git diff can be used to compare differences between two files made at the same time. 
+
+How might using version control make you more confident to make changes that could break something?
+
+Version control makes me far more confident to be able to detect destructive changes that can be investigated thoroughly and completely in a systematic way.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to create a directory to serve as a location for my program files so that I can keep a full version control system.
