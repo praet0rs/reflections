@@ -5,3 +5,7 @@ When wanting to store secure copies of my work on the cloud, when wanting others
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 In order to protect my files from having sensitie data being exposed to public sight
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is done on the github server while a clone relates to sending data to and from the local machine and github. A branch relates only to the local repository.
