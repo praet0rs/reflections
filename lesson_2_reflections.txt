@@ -9,3 +9,7 @@ The staging area is a holding location in which files can be placed prior to the
 How can you use the staging area to make sure you have one commit per logical change?
 
 By placing files into the staging area after an important update or revision the file begins to develop a logical project based lifetime based on file updates.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when the project needs to fork for experimental, separate development and other version reasons.
