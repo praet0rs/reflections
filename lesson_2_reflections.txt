@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A new repository called .git is created with no stored commits. By creating .git, a new storage point for git is created in the repository directory which will enable version control of the files contained within that repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a holding location in which files can be placed prior to them being committed.
