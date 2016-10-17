@@ -21,3 +21,7 @@ By allowing a map to form in which illustrates reachability between commits
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches together creates a file in which all branch revisions are merged together into a single branch. Diagrams help to visualise that merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is limited due to the difficulty of software aggregation and in some circumstances manual intervention is required to oversee validity of the software. 
