@@ -17,3 +17,7 @@ Branches are helpful when the project needs to fork for experimental, separate d
 How do the diagrams help you visualize the branch structure?
 
 By allowing a map to form in which illustrates reachability between commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together creates a file in which all branch revisions are merged together into a single branch. Diagrams help to visualise that merge.
